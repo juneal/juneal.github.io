@@ -2,11 +2,9 @@
 <html>
     <head>
         <title>Hi! I'm June.</title>
-        <link rel="stylesheet" href="style.css" />
     </head>
     <body>
         <header>
-            <img src="avatar.png" />
             <h1>Hi! I'm June.</h1>
             <p>cs student &bull; web dev &bull; decentral tech</p>
         </header>
