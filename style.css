@@ -25,6 +25,13 @@ html {
     line-height: 1;
 }
 
+@media (prefers-color-scheme: dark) {
+    html {
+        background: #222;
+        color: #efefef;
+    }
+}
+
 body {
     margin: auto;
     width: 100%;
