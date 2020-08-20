@@ -5,8 +5,8 @@
 	font-display: swap;
 	src: url("qtpi.ttf");
 	src: local('qtpi'),
-		 url('qtpi.woff') format('woff'),
-		 url('qtpi.otf') format('truetype');
+		 url('qtpi.otf') format('opentype'),
+		 url('qtpi.ttf') format('truetype');
 }
 
 /* Reset */
