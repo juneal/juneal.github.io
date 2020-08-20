@@ -19,7 +19,7 @@ html {
     width: 100%;
     height: 100%;
     
-    font-family: qtpi;
+    font-family: qtpi, sans-serif;
     color: #242424;
     font-size: 142%;
     line-height: 1;
